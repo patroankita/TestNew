@@ -1,0 +1,11 @@
+Key                Value
+---                -----
+lease_id           database/creds/prod_membership-prod_benefit_service_read/oKYru8NVd8cD4ENjlRMHT3T8
+lease_duration     48h
+lease_renewable    true
+password           TlA6a-nfLZy5WagsbNXH
+username           v-root-prod_membe-4bPnFfpnHAMl57
+Proxysql endpoint: proxysql.prod-rds.halodoc.com
+Proxysql port: 6033
+Database Name      benefit_service
+**Please note database name is now mandatory while initiating database connection & set useSSL=0 if supported**
